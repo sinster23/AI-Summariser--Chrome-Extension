@@ -66,4 +66,4 @@ Note: Current public version is local-only and does not send data to any externa
 ---
 
 ## 🧑‍💻 Author
-Made with 💙 by Upayan (sinster23)
+Made by Upayan (sinster23)
