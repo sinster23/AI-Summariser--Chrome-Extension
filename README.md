@@ -2,8 +2,6 @@
 
 AI Summariser is a lightweight, fast, and beautifully designed Chrome extension that extracts text from articles and web pages, then summarizes the content using AI in various formats — **Brief**, **Detailed**, or **Bullet Points**.
 
-![Extension Screenshot](screenshot.png)
-
 ---
 
 ## ✨ Features
@@ -45,7 +43,7 @@ AI Summariser is a lightweight, fast, and beautifully designed Chrome extension 
 
 - Chrome Extension APIs (tabs, scripting, storage)
 
-  ---
+---
 
 ## 🤖 AI Integration
 This extension can be integrated with any AI summarization API (like OpenAI, Gemini, Claude, etc.). To do that:
