@@ -4,6 +4,15 @@ AI Summariser is a lightweight, fast, and beautifully designed Chrome extension 
 
 ---
 
+## Screenshots
+
+<div align="center" >
+  <img src="https://github.com/sinster23/Screenshots/blob/main/summarizer-ss/screenshot-extensiom-1.jpg" alt="Screenshot 1" width="600"> 
+  <img src="https://github.com/sinster23/Screenshots/blob/main/summarizer-ss/screensot-extension-2.png" alt="Screenshot 2" width="600" height="800">  
+</div>
+
+---
+
 ## ✨ Features
 
 - 🧠 Summarizes any article on the web instantly.
